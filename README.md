@@ -7,11 +7,11 @@ Frontend Engineer
 Creative Frontend Developer with +4 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [merouan.chakour@gmail.com](mailto:merouan.chakour@gmail.com)
+* ✉️  Contact me at [merouan.chakour@gmail.com](mailto:merouan.chakour@gmail.com)
 * 🚀  I'm currently working on [Metafy](http://metafy.gg)
 * 🧠  I'm learning Everything related to Frontend, JS and TS ecosystem (Jumping to Ruby soon)
 * 🤝  I'm open to collaborating on Frontend, JS and TS interested projects
-* ⚡  You can call cmarouan
+* ⚡  You can call cmarouan - In love with Football
 
 ### Skills
 
