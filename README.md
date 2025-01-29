@@ -4,7 +4,7 @@ Hi 👋 My name is Marouane Chakour
 Frontend Engineer
 -----------------
 
-Creative Frontend Developer with +4 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
+Creative Frontend Developer with +5 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
 
 * 🌍  I'm based in Morocco
 * ✉️  Contact me at [merouan.chakour@gmail.com](mailto:merouan.chakour@gmail.com)
