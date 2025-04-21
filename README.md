@@ -1,7 +1,7 @@
 Hi 👋 My name is Marouane Chakour
 =================================
 
-Frontend Engineer
+Senior Frontend Engineer
 -----------------
 
 Creative Frontend Developer with +5 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
