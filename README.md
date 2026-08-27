@@ -1,16 +1,14 @@
 Hi 👋 My name is Marouane Chakour
 =================================
 
-Senior Frontend Engineer
+Senior Engineer
 -----------------
 
-Creative Frontend Developer with +5 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
+Creative Senior Engineer with +7 years of experience leveraging Javascript to build and manage complex/medium/small responsive website and web applications
 
 * 🌍  I'm based in Morocco
 * ✉️  Contact me at [merouan.chakour@gmail.com](mailto:merouan.chakour@gmail.com)
-* 🚀  I'm currently working as a Frontend Engineer
-* 🧠  I'm learning Everything related to Frontend, JS and TS ecosystem (Jumping to Ruby soon)
-* 🤝  I'm open to collaborating on Frontend, JS and TS interested projects
+* 🧠  I'm learning Everything related to AI, JS and TS ecosystem
 * ⚡  You can call cmarouan - In love with Football
 
 ### Skills
